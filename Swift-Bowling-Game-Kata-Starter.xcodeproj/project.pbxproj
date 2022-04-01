@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8DB4E2B027F737A1001ABDC1 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 8DB4E2AF27F737A1001ABDC1 /* Readme.md */; };
 		EE250D2925627965000E5B03 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE250D2825627965000E5B03 /* AppDelegate.swift */; };
 		EE250D2B25627965000E5B03 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE250D2A25627965000E5B03 /* SceneDelegate.swift */; };
 		EE250D2D25627965000E5B03 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE250D2C25627965000E5B03 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8DB4E2AF27F737A1001ABDC1 /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		EE250D2525627965000E5B03 /* Swift-Bowling-Game-Kata-Starter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-Bowling-Game-Kata-Starter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE250D2825627965000E5B03 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EE250D2A25627965000E5B03 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 		EE250D1C25627965000E5B03 = {
 			isa = PBXGroup;
 			children = (
+				8DB4E2AF27F737A1001ABDC1 /* Readme.md */,
 				EE250D2725627965000E5B03 /* Swift-Bowling-Game-Kata-Starter */,
 				EE250D3E25627967000E5B03 /* Swift-Bowling-Game-Kata-StarterTests */,
 				EE250D2625627965000E5B03 /* Products */,
@@ -223,6 +226,7 @@
 			files = (
 				EE250D3525627966000E5B03 /* LaunchScreen.storyboard in Resources */,
 				EE250D3225627966000E5B03 /* Assets.xcassets in Resources */,
+				8DB4E2B027F737A1001ABDC1 /* Readme.md in Resources */,
 				EE250D3025627965000E5B03 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
