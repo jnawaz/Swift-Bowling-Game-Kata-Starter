@@ -1,6 +1,6 @@
 # Bowling Game Kata
 
-This project contains a starter setup for a TDD driven bowling game kata. There is already a Game.swift class the contains a protocol to get your started with function names.
+This project contains a starter setup for a TDD driven bowling game kata. There is a Game.swift class that contains an empty protocol and an empty XCUnit Test file to get you started.
 
 ## Bowling Rules
 
@@ -10,11 +10,9 @@ This project contains a starter setup for a TDD driven bowling game kata. There 
 *  If a player rolls a Spare or Strike in the tenth frame they will get an extra bonus to roll again, but no more than three rolls in total in the tenth frame.
 * A perfect game score is 300 (12 Strikes).
 
-## Tasks
+## Task
 
-1. A player rolls 20 times and knock nothing, the expected score would be zero.
-2. A player rolls 20 times and knock 2 pins each rolling, the expected score would be 40.
-3. A player rolls a Spare in the second frame. Calculate the score after the 3rd frame.
-4. A player gets a strike in frame 4. Calculate the score after the 5th frame.
-5. A player gets a perfect game.
-6. A player has a normal game. 
+We'd like you to write the logic for a game of bowling based on the rules outlined above. The only mandates are that at least one frame must score a spare and at least one must score a strike.
+We're interested in seeing the final score at the end of a game of bowling.
+
+Good luck!
