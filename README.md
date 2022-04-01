@@ -17,4 +17,7 @@ We're interested in seeing the final score at the end of a game of bowling.
 
 **N.B.** We don't require you to run the app, we're focusing on the TDD approach to building out the logic for a game of bowling.
 
+### Useful links
+Feel free to use [this](https://www.bowlinggenius.com/) bowling game score calculator to validate your scores.
+
 Good luck!
