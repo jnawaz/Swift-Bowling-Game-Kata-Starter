@@ -15,4 +15,6 @@ This project contains a starter setup for a TDD driven bowling game kata. There 
 We'd like you to write the logic for a game of bowling based on the rules outlined above. The only mandates are that at least one frame must score a spare and at least one must score a strike.
 We're interested in seeing the final score at the end of a game of bowling.
 
+**N.B.** We don't require you to run the app, we're focusing on the TDD approach to building out the logic for a game of bowling.
+
 Good luck!
