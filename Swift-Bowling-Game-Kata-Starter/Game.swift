@@ -8,5 +8,6 @@
 import Foundation
 
 protocol GameProtocol {
-    
+    func roll(_ pins: Int)
+    func score() -> Int
 }
