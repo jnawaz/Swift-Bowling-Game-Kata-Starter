@@ -1,6 +1,6 @@
 # Bowling Game Kata
 
-This project contains a starter setup for a TDD driven bowling game kata. There is a Game.swift class that contains an protocol and an empty XCUnit Test file to get you started.
+This project contains a starter setup for a TDD driven bowling game kata. There is a Game.swift class that contains a protocol and an empty XCUnit Test file to get you started.
 
 ## Bowling Rules
 
